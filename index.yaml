@@ -33,12 +33,12 @@ entries:
   synology-csi:
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2024-11-26T13:18:50.662708137+01:00"
+    created: "2024-11-26T13:21:05.18705906+01:00"
     description: A Helm chart for Kubernetes
-    digest: 01d551d853b0ad20d40b3bc923604f0b996cdaa5657dc70631bdd0387242d562
+    digest: b921aebe731157d291d67e9a843d0d9daede9fa6809e28b6d798c93d76104972
     name: synology-csi
     type: application
     urls:
     - https://burnom.github.io/helm-charts-home/synology-csi-1.0.1.tgz
     version: 1.0.1
-generated: "2024-11-26T13:18:50.661594292+01:00"
+generated: "2024-11-26T13:21:05.18586017+01:00"
